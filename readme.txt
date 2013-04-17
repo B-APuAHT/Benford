@@ -1,0 +1,1 @@
+representation of Beford's law

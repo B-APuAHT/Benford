@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1361713042 source:c:\учёба\6 семестр\программирование на яву\benfords law\benfords law\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
